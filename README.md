@@ -8,8 +8,9 @@
 
 ### 📫 Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"/></a>
   <a href="https://www.instagram.com/faik.aktss/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" height="30" style="margin-right: 10px;" /></a>
+  <a href="https://www.linkedin.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"/></a>
+  
 </p>
 
 ### 🛠️ Languages and Tools:
