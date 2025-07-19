@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Faik</h1>
-<hr>
+
 
 <h3 align="center">Jr. Backend Developer</h3>
 
