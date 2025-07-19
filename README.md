@@ -26,11 +26,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30" height="30" style="margin-right:8px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="30" height="30" style="margin-right:8px;"/>
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40"/>
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="30" height="30" style="margin-right:8px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="30" height="30" style="margin-right:8px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="30" height="30" style="margin-right:8px;"/>
   <img src="https://dbeaver.io/wp-content/uploads/2018/05/dbeaver-head.png" alt="dbeaver" width="30" height="30" style="margin-right:8px;"/>
+  
   
   
   
