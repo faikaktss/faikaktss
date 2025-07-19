@@ -9,9 +9,7 @@
 ### 📫 Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"/></a>
-  <a href="https://stackoverflow.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" alt="stackoverflow" width="30" height="30"/></a>
-  <a href="https://www.hackerrank.com/" target="_blank"><img src="https://simpleicons.org/icons/hackerrank.svg" alt="hackerrank" width="30" height="30"/></a>
-  <a href="https://www.instagram.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="instagram" width="30" height="30"/></a>
+  <a href="https://www.instagram.com/faik.aktss/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="instagram" width="30" height="30"/></a>
 </p>
 
 ### 🛠️ Languages and Tools:
