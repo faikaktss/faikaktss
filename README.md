@@ -9,7 +9,9 @@
 ### 📫 Connect with me:
 <p align="left">
   <a href="https://www.instagram.com/faik.aktss/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" height="30" style="margin-right: 10px;" /></a>
-  <a href="https://www.linkedin.com/" target="_blank"><img src="https://www.linkedin.com/in/faik-akta%C5%9F-8a8a51369/" alt="linkedin" width="30" height="30"/></a>
+    <a href="https://www.linkedin.com/in/faik-akta%C5%9F-8a8a51369/" target="_blank">
+    <img src="a3a89c33-1a5c-43cf-a31e-9c2a11869581.png" alt="LinkedIn" width="40" style="vertical-align: middle;">
+  </a>
   
 </p>
 
