@@ -33,7 +33,6 @@ c
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968494.png" alt="Postman" width="35" height="35" />
   </a>
 
-  <img src="adobe-illustrator.png" alt="Adobe Illustrator" width="35" height="35" />
 
 
   
