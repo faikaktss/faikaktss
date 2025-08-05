@@ -32,9 +32,9 @@
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968494.png" alt="Postman" width="35" height="35" />
   </a>
-    <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/882/882143.png" alt="Adobe Illustrator" width="35" height="35" />
-  </a>
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/882/882143.png" alt="Adobe Illustrator" width="35" height="35" />
+</a>
   
   
   
