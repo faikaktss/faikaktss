@@ -29,6 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="30" height="30" style="margin-right:8px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="30" height="30" style="margin-right:8px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="30" height="30" style="margin-right:8px;"/>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Postman_logo.png" alt="Postman" width="30" height="30" /></a>
   
   
   
