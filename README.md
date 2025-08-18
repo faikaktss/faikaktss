@@ -9,7 +9,7 @@ c
 ### 📫 Connect with me:
 <div style="display: flex; align-items: center;">
   <a href="https://www.instagram.com/faik.aktss/" target="_blank" style="margin-right: 10px;">  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" height="30" /> </a>
-  <a href="https://www.linkedin.com/in/faik-akta%C5%9F-8a8a51369/" target="_blank"> <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="30" height="30" /> </a>
+  <a href="https://www.linkedin.com/in/faik-akta%C5%9F-8a8a51369/" target="_blank"> <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="70" height="70" /> </a>
 </div>
 
 
