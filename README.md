@@ -29,9 +29,6 @@ c
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="30" height="30" style="margin-right:8px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="30" height="30" style="margin-right:8px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="30" height="30" style="margin-right:8px;"/>
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968494.png" alt="Postman" width="35" height="35" />
-  </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="30" height="30" style="margin-right:8px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="eclipse" width="30" height="30" style="margin-right:8px;"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30" style="margin-right:8px;"/>
