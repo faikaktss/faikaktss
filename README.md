@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Faik</h1>
 
 
-<h3 align="center">Backend Developer & AI(İmage Processing)</h3>
+<h3 align="center">Backend Developer & AI (İmage Processing)</h3>
 
 
 
