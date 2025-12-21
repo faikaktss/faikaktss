@@ -49,7 +49,7 @@
 ### 📫 Connect with me:
 <p align="left">
 <a href="www.linkedin.com/in/faik-aktss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ceylanyildirim" height="30" width="40" /></a>
-  [![Gmail](https://skillicons.dev/icons?i=gmail "Send Email")](mailto:faikaktss06@gmail.com)
+
 </p>
 
 ---
