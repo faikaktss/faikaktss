@@ -37,8 +37,6 @@
 <!-- Design Tools -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg" alt="Adobe XD" width="40" height="40"/>
 
 
 
