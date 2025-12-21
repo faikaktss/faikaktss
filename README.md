@@ -8,7 +8,7 @@
 
 ## 🛠️ Diller ve Araçlar
 
-<table align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border:none">
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="96"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="96"/></td>
@@ -26,6 +26,7 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="96"/></td>
   </tr>
 </table>
+
 
 
 
