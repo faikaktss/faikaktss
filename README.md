@@ -46,16 +46,13 @@
 
 
 
-
-## 📬 Bağlantılar (Connect with me)
-
-<p align="center">
-  <a href="https://instagram.com/faikaktss" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" alt="Instagram" height="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/faikaktss" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" height="40" />
+### 📫 Connect with me:
+<p align="left">
+  <a href="https://www.instagram.com/faik.aktss/" target="_blank" style="margin-right: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40" style="vertical-align:middle;"/>
+  </a> 
+  <a href="https://www.linkedin.com/in/faik-akta%C5%9F-8a8a51369/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" height="40" style="vertical-align:middle;"/>
   </a>
 </p>
 
