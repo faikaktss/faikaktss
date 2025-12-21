@@ -60,9 +60,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faikaktss&layout=compact&theme=dark&hide_border=true&langs_count=8&card_width=640" alt="faikaktss Top Languages" />
 </div>
 
-<div align="center" style="margin-top:12px">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=faikaktss&theme=react-dark&area=true&hide_border=true&width=1000" alt="Contribution graph" />
-</div>
+
 
 
 
