@@ -5,7 +5,7 @@
 <h3 align="center">𝐁𝐚𝐜𝐤𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 & 𝐀𝐈 (𝐈̇𝐦𝐚𝐠𝐞 𝐏𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠)</h3>
 
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+<h3 align="left">🛠️ 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬:</h3>
 <p align="left">
 <!-- Programming Languages -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -44,7 +44,7 @@
 
 
 
-### 📫 Connect with me:
+### 📫 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞:
 <p align="left">
 <a href="www.linkedin.com/in/faik-aktss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ceylanyildirim" height="30" width="40" /></a>
 
@@ -52,7 +52,7 @@
 
 ---
 
-## 📊 İstatistikler (Stats)
+## 📊𝐈̇𝐬𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐥𝐞𝐫 (𝐒𝐭𝐚𝐭𝐬)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=faikaktss&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=E29AF3&text_color=A7FFF0&icon_color=FFB86C&card_width=760" alt="faikaktss GitHub Stats" />
@@ -68,7 +68,7 @@
 
 ---
 
-## 🎯 Hedefler
-- Görüntü işleme & computer vision projeleri geliştirmek  
-- Backend performans ve güvenlik iyileştirmeleri yapmak  
-- Açık kaynak katkılarını artırmak
+## 🎯 𝐇𝐞𝐝𝐞𝐟𝐥𝐞𝐫:
+- 𝐆𝐨̈𝐫𝐮̈𝐧𝐭𝐮̈ 𝐢𝐬̧𝐥𝐞𝐦𝐞 & 𝐜𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐯𝐢𝐬𝐢𝐨𝐧 𝐩𝐫𝐨𝐣𝐞𝐥𝐞𝐫𝐢 𝐠𝐞𝐥𝐢𝐬̧𝐭𝐢𝐫𝐦𝐞𝐤 
+- 𝐁𝐚𝐜𝐤𝐞𝐧𝐝 𝐩𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐬 𝐯𝐞 𝐠𝐮̈𝐯𝐞𝐧𝐥𝐢𝐤 𝐢𝐲𝐢𝐥𝐞𝐬̧𝐭𝐢𝐫𝐦𝐞𝐥𝐞𝐫𝐢 𝐲𝐚𝐩𝐦𝐚𝐤 
+- 𝐀𝐜̧𝐢𝐤 𝐤𝐚𝐲𝐧𝐚𝐤 𝐤𝐚𝐭𝐤𝐢𝐥𝐚𝐫𝐢𝐧𝐢 𝐚𝐫𝐭𝐢𝐫𝐦𝐚𝐤
