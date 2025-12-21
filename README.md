@@ -64,7 +64,7 @@
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=faikaktss&theme=react-dark&area=true&hide_border=true&width=1000" alt="Contribution graph" />
 </div>
 
----
+
 
 ## 🎯 𝐇𝐞𝐝𝐞𝐟𝐥𝐞𝐫:
 - 𝐆𝐨̈𝐫𝐮̈𝐧𝐭𝐮̈ 𝐢𝐬̧𝐥𝐞𝐦𝐞 & 𝐜𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐯𝐢𝐬𝐢𝐨𝐧 𝐩𝐫𝐨𝐣𝐞𝐥𝐞𝐫𝐢 𝐠𝐞𝐥𝐢𝐬̧𝐭𝐢𝐫𝐦𝐞𝐤 
