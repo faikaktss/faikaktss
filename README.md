@@ -51,9 +51,7 @@
   <a href="https://www.instagram.com/faik.aktss/" target="_blank" style="margin-right: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40" style="vertical-align:middle;"/>
   </a> 
-  <a href="https://www.linkedin.com/in/faik-akta%C5%9F-8a8a51369/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" height="40" style="vertical-align:middle;"/>
-  </a>
+<a href="www.linkedin.com/in/faik-aktss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ceylanyildirim" height="30" width="40" /></a>
 </p>
 
 ---
