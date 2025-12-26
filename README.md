@@ -54,7 +54,7 @@
 ## 📊𝐈̇𝐬𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐥𝐞𝐫 (𝐒𝐭𝐚𝐭𝐬)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faikaktss&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=E29AF3&text_color=A7FFF0&icon_color=FFB86C&card_width=760" alt="faikaktss GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=faikaktss&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=E29AF3&text_color=A7FFF0&icon_color=FFB86C&card_width=760" alt="faikaktss GitHub Stats"  />
 </div>
 
 <div align="center" style="margin-top:12px">
