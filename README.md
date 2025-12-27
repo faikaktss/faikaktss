@@ -42,7 +42,7 @@
 
 
 
-
+ 
 ### 📫 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞:
 <p align="left">
 <a href="www.linkedin.com/in/faik-aktss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ceylanyildirim" height="30" width="40" /></a>
