@@ -51,15 +51,6 @@
 
 ---
 
-## 📊 İstatistikler (Stats)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faikaktss&show_icons=true&theme=dark&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faikaktss&layout=compact&theme=dark&hide_border=true" />
-</div>
 
 
 
