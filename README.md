@@ -1,3 +1,9 @@
+<h1 align="center">𝐇𝐢, 𝐈'𝐦 𝐅𝐚𝐢𝐤</h1>
+
+<h3 align="center">𝐁𝐚𝐜𝐤𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 & 𝐀𝐈 (𝐈̇𝐦𝐚𝐠𝐞 𝐏𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠)</h3>
+
+---
+
 <h3 align="left">🛠️ 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬:</h3>
 <p align="left">
 
@@ -16,9 +22,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
 
 <!-- Backend -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
 
 <!-- Databases -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
@@ -36,7 +42,16 @@
 
 ---
 
-### 📫 Connect with me:
+## 🎯 𝐇𝐞𝐝𝐞𝐟𝐥𝐞𝐫𝐢𝐦:
+- Computer Vision ve Image Processing tabanlı projelerde uzmanlaşmak  
+- Yüksek performanslı ve güvenli backend servisleri geliştirmek  
+- AI destekli sesli ve görsel sistemler üretmek  
+- Modern backend mimarileri (**Spring Boot, Node.js, Docker**) ile ölçeklenebilir sistemler kurmak  
+- Açık kaynak projelere aktif katkı sağlamak  
+
+---
+
+### 📫 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞:
 <p align="left">
 <a href="https://www.linkedin.com/in/faik-aktss" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
