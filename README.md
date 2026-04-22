@@ -36,10 +36,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/faik-aktss" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="65" height="65" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:faikaktss06@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="65" height="65" alt="Gmail"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="60" height="60" alt="Gmail" style="filter: invert(30%) sepia(90%) saturate(2000%) hue-rotate(340deg);"/>
   </a>
 </p>
