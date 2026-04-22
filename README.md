@@ -3,7 +3,6 @@
 
 
 <h2>🛠️ Languages and Tools:</h2>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2" width="100%"/>
 
 <p align="left">
   <a href="https://skillicons.dev">
