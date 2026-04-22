@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Faik</h1>
 <h3 align="center">Backend & Autonomous Vehicle Developer</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2" width="100%"/>
 
 <h2>🛠️ Languages and Tools:</h2>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2" width="100%"/>
@@ -13,7 +12,6 @@
 </p>
 
 <h2>🎯 Hedeflerim:</h2>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2" width="100%"/>
 
 - Computer Vision ve Image Processing tabanli projelerde uzmanlaşmak
 - Yüksek performansli ve güvenli backend servisleri geliştirmek  
@@ -22,7 +20,6 @@
 - Açik kaynak projelere aktif katki sağlamak
 
 <h2>🧠 Şu An Öğreniyorum:</h2>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2" width="100%"/>
 
 - 🤖 **Bilgisayarlı Görü & Derin Öğrenme** (OpenCV, PyTorch, YOLO)
 - 🚗 **Otonom Araç Sistemleri** (ROS2, Sensör Füzyonu)
@@ -30,7 +27,6 @@
 - 🐳 **DevOps & Bulut Teknolojileri** (Kubernetes, CI/CD Pipeline'ları)
 
 <h2>📊 GitHub Stats:</h2>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2" width="100%"/>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faikaktss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
@@ -38,7 +34,6 @@
 </p>
 
 <h2>📫 Connect with me:</h2>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2" width="100%"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/faik-aktss" target="_blank">
