@@ -6,7 +6,7 @@
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,react,nextjs,bootstrap,spring,nodejs,express,postgres,firebase,docker,git,linux,postman,ps&perline=9" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,react,nextjs,bootstrap,spring,nodejs,express,postgres,firebase,docker,git,linux,postman,&perline=9" />
   </a>
 </p>
 
