@@ -40,14 +40,14 @@
 <h2>📫 Connect with me:</h2>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2" width="100%"/>
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/faik-aktss" target="_blank">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=0A66C2&background=0A66C200&center=true&vCenter=true&width=180&height=40&lines=%F0%9F%94%97+LinkedIn" />
   </a>
   <a href="mailto:faikaktss06@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" alt="Gmail"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=EA4335&background=EA433500&center=true&vCenter=true&width=180&height=40&lines=%E2%9C%89+Gmail" />
   </a>
   <a href="https://github.com/faikaktss" target="_blank">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=" alt="GitHub"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFFFFF&background=18171700&center=true&vCenter=true&width=180&height=40&lines=%F0%9F%90%99+GitHub" />
   </a>
 </p>
