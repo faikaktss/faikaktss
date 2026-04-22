@@ -39,16 +39,6 @@
 
 ---
 
-## 🔥 𝐒𝐭𝐫𝐞𝐚𝐤 𝐆𝐫𝐚𝐩𝐡:
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faikaktss&theme=tokyonight&hide_border=true&background=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faikaktss&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" />
-</p>
-
 ---
 
 ### 📫 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞:
