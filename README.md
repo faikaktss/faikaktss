@@ -32,14 +32,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faikaktss&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
 <h2>📫 Connect with me:</h2>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2" width="100%"/>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/faik-aktss" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:faikaktss06@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="60" height="60" alt="Gmail" style="filter: invert(30%) sepia(90%) saturate(2000%) hue-rotate(340deg);"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" height="50" alt="Gmail"/>
   </a>
 </p>
