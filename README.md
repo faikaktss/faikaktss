@@ -34,16 +34,12 @@
 <h2>📫 Connect with me:</h2>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2" width="100%"/>
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/faik-aktss" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="65" height="65" alt="LinkedIn"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:faikaktss06@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/faikaktss" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="65" height="65" alt="Gmail"/>
   </a>
 </p>
