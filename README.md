@@ -25,12 +25,7 @@
 - ☕ **İleri Seviye Spring Boot** (Mikroservisler, Kafka, Redis)
 - 🐳 **DevOps & Bulut Teknolojileri** (Kubernetes, CI/CD Pipeline'ları)
 
-<h2>📊 GitHub Stats:</h2>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faikaktss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faikaktss&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</p>
 <h2>📫 Connect with me:</h2>
 
 <p align="left">
