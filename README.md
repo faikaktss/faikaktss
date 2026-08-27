@@ -9,7 +9,6 @@
     <img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,react,nextjs,bootstrap,spring,nodejs,express,postgres,firebase,docker,git,linux,postman,&perline=9" />
   </a>
 </p>
-
 <h2>📫 Connect with me:</h2>
 
 <p align="left">
