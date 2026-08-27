@@ -10,22 +10,6 @@
   </a>
 </p>
 
-<h2>🎯 Hedeflerim:</h2>
-
-- Computer Vision ve Image Processing tabanli projelerde uzmanlaşmak
-- Yüksek performansli ve güvenli backend servisleri geliştirmek  
-- AI destekli sesli ve görsel sistemler üretmek 
-- Modern backend mimarileri (**Spring Boot, Node.js, Docker**) ile ölçeklenebilir sistemler kurmak 
-- Açik kaynak projelere aktif katki sağlamak
-
-<h2>🧠 Şu An Öğreniyorum:</h2>
-
-- 🤖 **Bilgisayarlı Görü & Derin Öğrenme** (OpenCV, PyTorch, YOLO)
-- 🚗 **Otonom Araç Sistemleri** (ROS2, Sensör Füzyonu)
-- ☕ **İleri Seviye Spring Boot** (Mikroservisler, Kafka, Redis)
-- 🐳 **DevOps & Bulut Teknolojileri** (Kubernetes, CI/CD Pipeline'ları)
-
-
 <h2>📫 Connect with me:</h2>
 
 <p align="left">
